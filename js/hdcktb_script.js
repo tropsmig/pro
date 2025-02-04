@@ -1,0 +1,1 @@
+$(window).on("load",function(){$(".lazy_img").removeClass("lazy_css")})
